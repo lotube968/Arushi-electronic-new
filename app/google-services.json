@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9461184433",
+    "project_id": "gen-lang-client-0056523893",
+    "storage_bucket": "gen-lang-client-0056523893.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9461184433:android:39f47727dcc01c4b33af90",
+        "android_client_info": {
+          "package_name": "com.arushi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4pRVg3yy6glwAs2mRhDHF5ttoPRCAP4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
